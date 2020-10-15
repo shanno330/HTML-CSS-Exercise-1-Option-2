@@ -1,0 +1,55 @@
+html{
+    font-family: 'Haas Grot Text R Web', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+body{
+    background-color: #D47677;
+}
+h1{
+    color:#7E7E7E;
+    padding-top: 60px;
+    padding-bottom: 25px;
+    font-size: 22px;
+}
+.gray{
+    background-color: #F0F0F0;
+    width: 50%;
+    height: 480px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 330px;
+}
+.username{
+    margin-bottom:40px;
+}
+button {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #9DD8D4;
+    color: #f0f0f0;
+    width:20%;
+    font-size: 15px;
+    padding-left: 8px;
+    padding-right:10px;
+    margin-left: 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-color:#9DD8D4;
+    box-shadow: 0px,0px;
+}
+input[type=text] {
+    height:40px;
+    width: 550px;
+    padding: 10px;
+    font-size: 20px;
+    color:#F0F0F0;
+    border-style:solid;
+    border-color:#AAAAAA;
+}
+.remember{
+    padding-right:450px;
+    font-size: 14px;
+    color:#AAAAAA ;
+}
+input[type=checkbox] {
+transform: scale(1.5)
+}
